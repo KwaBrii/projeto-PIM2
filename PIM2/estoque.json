@@ -1,0 +1,12 @@
+[
+  {
+    "ingrediente": "Mussarela",
+    "quantidade": 10,
+    "minimo": 3
+  },
+  {
+    "ingrediente": "Calabresa",
+    "quantidade": 5,
+    "minimo": 2
+  }
+]

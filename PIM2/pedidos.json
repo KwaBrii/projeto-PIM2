@@ -1,0 +1,9 @@
+[
+  {
+    "cliente": "João",
+    "produto": "Pizza Calabresa",
+    "quantidade": 1,
+    "valor": 45.0,
+    "status": "Em Produção"
+  }
+]
